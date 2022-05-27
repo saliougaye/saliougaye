@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saliou</h1>
-<h3 align="center">A passionate boy who want to know everything about IT</h3>
+<h3 align="center">A shy-passionate guy who wants to combine travel and computer science in his life</h3>
 
 - 🌱 I’m currently learning **Micro Frontends**
 
