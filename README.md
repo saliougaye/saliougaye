@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently studying **in a Cloud Development Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saliougaye?tab=repositories](https://github.com/saliougaye?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/saliougaye?tab=repositories)
 
 - ⚡ Fun fact **I love Basketball, my favourite team is the Boston Celtics 🏀**
 
