@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/saliougaye?tab=repositories)
 
-- ⚡ Fun fact **I love Basketball, my favourite team is the Boston Celtics 🏀**
+- ⚡ Fun fact **I love Basketball, my favourite team is the Boston Celtics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
