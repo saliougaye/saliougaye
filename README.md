@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saliou</h1>
 <h3 align="center">A shy-passionate guy who wants to combine travel and computer science in his life</h3>
 
-- 🌱 I’m currently learning **Micro Frontends**
+<!-- - 🌱 I’m currently learning **Micro Frontends** -->
 
 - 🎓 I’m currently studying **in a Cloud Development Course**
 
