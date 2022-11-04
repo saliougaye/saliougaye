@@ -3,7 +3,7 @@
 
 <!-- - 🌱 I’m currently learning **Micro Frontends** -->
 
-- 🎓 I’m currently studying **in a Cloud Development Course**
+- 🎓 I’m currently working for Empatica like a **Software Engineer**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/saliougaye?tab=repositories)
 
